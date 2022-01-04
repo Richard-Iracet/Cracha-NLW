@@ -18,7 +18,7 @@ body {
 }
 
 main {
-  background: url('images/Mobile.png');
+  background: url(images/backgroundMobile.png);
   width: 375px;
   height: 812px;
 }
@@ -83,4 +83,18 @@ ul {
   gap: 0.5rem;
 
   justify-content: center;
+}
+
+/* Responsividade Desktop*/
+@media (min-width: 960px) {
+  main {
+    background: url(images/backgroundDesktop.png);
+    background-color: black;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100vw;
+    min-height: 812px;
+    height: 100vh;
+  }
 }
