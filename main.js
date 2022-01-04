@@ -1,6 +1,9 @@
 const LinksSocialMedia = {
   github: 'Richard-Iracet',
-  instagram: 'richard.ira7'
+  youtube: '',
+  facebook: '',
+  instagram: 'richard.ira7',
+  twitter: ''
 }
 
 function changeSocialMediaLinks() {
