@@ -1,7 +1,7 @@
 const LinksSocialMedia = {
   github: 'Richard-Iracet',
   instagram: 'richard.ira7',
-  linkedin: 'in/richard-iracet-alves-rodrigues-b85780229/'
+    linkedin: 'in/richard-iracet-b85780229/'
 }
 
 function changeSocialMediaLinks() {
