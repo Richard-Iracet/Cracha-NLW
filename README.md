@@ -1,6 +1,8 @@
 # Cracha-NLW
 
-Crachá virtual criado na trilha NLW Heat utilizando HTML, CSS, JS e a API do GitHub.
+Esse projeto foi desenvolvido com HTML, CSS, JS e a API do GitHub.
+
+A aplicação consiste em um Crachá virtual criado na trilha NLW Heat, com integração com a API do GitHub que insere os dados do perfil do GitHub no Crachá de forma automática.
 
 Você pode conferi-lo em https://richard-iracet.github.io/Cracha-NLW/
 
